@@ -1,2 +1,1 @@
-<p align="center">Hello!</p>
-<p>I appreciate you coming over here, but you've made a stupid decision.</p>
+hey can you please for the love of god go to [my ghp website kthx.](https://the3dbb.github.com)
