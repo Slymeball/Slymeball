@@ -1,4 +1,4 @@
-<h1>Welcome to my profile!</p>
+<h1>Welcome to my profile!</h1>
 <p>I use Github for <a href="https://slymeball.github.io">my personal website</a> and for when I need to host a quick project repo.</p>
 
 <h2>Projects</h2>
