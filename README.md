@@ -5,7 +5,7 @@
 <h3>Current</h3>
 <ul>
   <li><a href="https://slymeball.github.io">Website</a></li>
-  <li><a href="https://slymeball.github.io/SlimeFarms">SlimeFarms (MC Server)</a>
+  <li><a href="https://github.com/Slymeball/isFlatt">isFlatt (MC Server)</a>
 </ul>
 <h3>Previous</h3>
 <ul>
