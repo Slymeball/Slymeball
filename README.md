@@ -4,7 +4,7 @@
 <h2>Projects</h2>
 <h3>Current</h3>
 <ul>
-  <li><a href="https://slymeball.github.io">Website</a></li>
+  <li><a href="https://slymeball.github.io">Website</a> <a href="https://github.com/slymeball/slymeball.github.io">(Repo)</a></li>
   <li><a href="https://slymeball.github.io/figura">Figura Models</a> <a href="https://github.com/slymeball/figura-models">(Repo)</a></li>
 </ul>
 <h3>Previous</h3>
