@@ -1,20 +1,4 @@
-<h1>Welcome to my profile!</h1>
-<p>I use Github for <a href="https://slymeball.github.io">my personal website</a> and for when I need to host a quick project repo.</p>
+# Slymeball
+A bright green and orange pile of ooze that kind of looks like a human.
 
-<h2>Projects</h2>
-<h3>Current</h3>
-<ul>
-  <li><a href="https://slymeball.github.io">Website</a> <a href="https://github.com/slymeball/slymeball.github.io">(Repo)</a></li>
-  <li><a href="https://slymeball.github.io/figura">Figura Models</a> <a href="https://github.com/slymeball/figura-models">(Repo)</a></li>
-</ul>
-<h3>Previous</h3>
-<ul>
-  <li><a href="https://github.com/Slymeball/SkrPak">SkrPak</a></li>
-</ul>
-
-<h2>Socials</h2>
-<ul>
-  <li>Website: <a href="https://slymeball.github.io">slymeball.github.io</a></li>
-  <li>Twitter: <a href="https://twitter.com/BallOfSlyme">@BallOfSlyme</a></li>
-  <li>Discord: <a href="https://dsc.bio/Slyme">@Slyme#2894</a></li>
-</ul>
+![In a long form, I accept both He/Him and They/Them. IDK if I'm using he/they correctly...](https://shields.io/endpoint?url=https://pronoundb.org/shields/60b248cd4e65bb4422b2035e&style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAvCAYAAAClgknJAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMmSURBVHgB1ZmLcRoxEIb30kBwBT5XEFJBjgqcVEA6sDsIHUAFIekgFeRIBdgNWFRgSAP80SLdjHBudat74PM3o2FAQre/HqtdHdEbJ6OBAJDbj4kvuyzLdjRmrMETW77ZUtqyRz1cd+fFjQM2xpYfSGf96kL8aO7RjXt6DeyDl+iPJV2Sno2vWNMlgNuoGnhpbX3RLrNhlxPchm0yemFLUfPfKXSbfUpDAecGJXikc0UfPAgm0k9JQ8Cj2mD8JKGvif+PREF9A3n6DVr4cz8T0t5YUd9AnvY5tQRuv9Sxpz6B24ASObUEbil16vcd6ZDW96ZLkGb/e7AfD0L1B1KgFZALv++oO4/C71ekQCtgtHQVoBqlBq6F31UbWStAWqef0OHk9Bs1F6r/koJGAXAH1K1QzXVVrFM2uVTvde58Wx5hQ7KA6y4eLsywUuN9UycE7XOHZbIQuLDBoBsG7rTlskU3DLRL1Tacoz8MumdsIfNLGj8UZyKywPic3KYaO3x6z+wpfvKMJy9kjeePWBzODTjlm9lyQ8MI3fm+P9ryM9Ju4m0JrAO+RqbsGS/ic7iN+YT+MHjhaez3z4jvn3nVMBYqP0NwYehPhJjJwUXBkghTNYplWo2xPlxMf0Q6p/xZ0f99pI+CG6yEyidSAjcbLMRAaTjSUtBS6GsVq0zOtCKDcf7Q9H6lWSjZC0kn3COlo0lCckrnl9QXC6idysrPDsB7SiSS9eViNAp3NoweFnAQ6nJK50ADADmQO7CAnVBZUDqaJKTN3pIEPLCAP0LlvMUy0uybLaUjecRd00E2SxGB+D1PRU4JwIUUErfVQ8Xj2pYbrQi4sKSETNLFLeIXwSZsuIg81FQiJCG+LoObsX1DX6rMCs232IuwMc9CLDCrjv8bb2gWGM3lCmlvbdaQAzhNLm7gQ5EwoSkonhNUbMh5EnaZ3AmfvgW1Y1PT15Tkq8yKL/Zw+/90RnwpjYVFVBrGLWJBGtA+xg85ZXLo54qG90PaC0A4L/Ab6UK4/XcE8T7av81nSnS8oeMRXMON6BHngo5B4froLVogxDQYvffPLJrs+wfzcgDZNe7EOQAAAABJRU5ErkJggg==&color=9cfc9b) ![For all of you blind people, my favorite color is the color I use in the bottom-left of my avatar. Not that you can see it.](https://img.shields.io/badge/favorite%20color-%239cfc9b-9cfc9b)
