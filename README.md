@@ -1,22 +1,27 @@
 # Slymeball/Slymeball
 A lime green pile of sticky, translucent ooze that kind of looks like a human.
 
-![In a long form, I accept both He/Him and They/Them. IDK if I'm using he/they correctly...](https://shields.io/endpoint?url=https://pronoundb.org/shields/60b248cd4e65bb4422b2035e&style=flat&color=9cfc9b) ![For all of you blind people, my favorite color is the color I use in the bottom-left of my avatar. Not that you can see it.](https://shields.io/static/v1?label=favorite%20color&message=%239cfc9b&color=9cfc9b)
+![Pronouns: He/They](https://shields.io/endpoint?url=https://pronoundb.org/shields/60b248cd4e65bb4422b2035e&style=flat&color=brightgreen) ![Favorite Color: #9cfc9b](https://shields.io/static/v1?label=favorite%20color&message=%239cfc9b&color=9cfc9b) ![Content: Unstable](https://shields.io/static/v1?label=content&message=unstable&color=red) ![Timezone: America/Chicago](https://shields.io/static/v1?label=timezone&message=America/Chicago&color=yellow)
 
 ## How to Install
 
 **on Discord**
-  1. Friend the user (`Slyme#2894`) on Discord.
+  1. Friend the user (`d@slyme.the.slime`) on Discord.
   2. Contact them via direct message.
   3. You now have Slyme! Congrats, and enjoy the user.
 
-**on Twitter**
-  1. (OPTIONAL) Follow the user ([`@BallOfSlyme`](https://twitter.com/BallOfSlyme)) on twitter.
-  2. Tweet at them using a mention to them OR...
+**on Revolt**
+  1. Friend the user (`@Slyme#4435`) on Revolt.
+  2. Contact them via direct message.
+  3. You now have Slyme! Congrats, and enjoy the user.
+
+**on Mastodon**
+  1. (OPTIONAL) Follow the user ([`@slyme@mstdn.social`](https://mstdn.social/@slyme)) on your Mastodon instance.
+  2. Toot at them using a mention OR...
   3. Contact them via direct message.
   4. You now have Slyme! Congrats, and enjoy the user.
 
-## Social Links:
+## Social Links
 <a href="#Slyme#2894"><img width="32" src="https://github.com/Slymeball/pixel-icons/blob/main/128/discord.png?raw=true"></a> <a href="https://www.slyme.xyz"><img width="32" src="https://github.com/Slymeball/pixel-icons/blob/main/128/internet.png?raw=true"></a> <a href="https://namemc.com/profile/Slymeball.1"><img width="32" src="https://github.com/Slymeball/pixel-icons/blob/main/128/minecraft.png?raw=true"></a> <a href="https://lemmy.world/u/slyme"><img width="32" src="https://github.com/Slymeball/pixel-icons/blob/main/128/lemmy.png?raw=true"></a> <a href="https://mstdn.social/@slyme"><img width="32" src="https://github.com/Slymeball/pixel-icons/blob/main/128/mastodon.png?raw=true"></a> 
 
 ### Inactive
